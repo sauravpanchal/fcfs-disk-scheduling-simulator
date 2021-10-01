@@ -5,9 +5,39 @@ First come first serve disk scheduling simulation can be viewed and studied with
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [Documentation PDF](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing)
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+[![Product Name Screen Shot][product-screenshot]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+
 ### Built With
 * [PyQt5](https://doc.qt.io/qtforpython/)
-* [Qt Designer]()
+* [Qt Designer](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator#installation)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -69,7 +99,7 @@ Saurav Panchal
 - Mail : saurav.panchal.08@gmail.com
 - Links : [Linktree](https://linktr.ee/sauravpanchal)
 
-Project Link : [https://github.com/sauravpanchal/](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
