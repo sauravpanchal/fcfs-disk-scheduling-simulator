@@ -15,7 +15,7 @@ First come first serve disk scheduling simulation can be viewed and studied with
 <br />
 <p align="center">
   <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator">
-    <img src="icon.png" alt="Logo" width="80" height="80">
+    <img src="icon.png" alt="Logo">
   </a>
 
   <h3 align="center">fcfs-disk-scheduling-simulator</h3>
