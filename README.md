@@ -9,8 +9,7 @@ First come first serve disk scheduling simulation can be viewed and studied with
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[Documentation PDF](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing)
-
+  
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -31,6 +30,8 @@ First come first serve disk scheduling simulation can be viewed and studied with
     <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Report Bug</a>
     ·
     <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Request Feature</a>
+    <br>
+    <a href="https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing">Documentation (PDF)</a>
   </p>
 </p>
 
