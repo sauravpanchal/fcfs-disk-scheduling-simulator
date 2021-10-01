@@ -87,7 +87,11 @@ To get a local copy up and running follow these simple example steps.
    ```
    pip install PyQt5
    ```
-3. _(Optional but Recommended)_ Install PyQt5 tools to get Qt desiner
+3. Install PyQt graph module
+   ```
+   pip install pyqtgraph
+   ```
+4. _(Optional but Recommended)_ Install PyQt5 tools to get Qt desiner
    ```
    pip install pyqt5-tools
    ```
