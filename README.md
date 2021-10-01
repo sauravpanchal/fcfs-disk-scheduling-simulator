@@ -157,4 +157,6 @@ Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator]
 [license-url]: https://github.com/sauravpanchal/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sauravpanchal
-[product-screenshot-1]: product-images/product-images-1.png
+[product-screenshot-1]: product-images/product-image-1.png
+[product-screenshot-2]: product-images/product-image-2.png
+[product-screenshot-3]: product-images/product-image-3.png
