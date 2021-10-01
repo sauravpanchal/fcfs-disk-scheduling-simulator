@@ -63,6 +63,7 @@ First come first serve disk scheduling simulation can be viewed and studied with
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 [![Product Name Screen Shot][product-screenshot-1]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 
 ### Built With
@@ -109,8 +110,9 @@ To get a local copy up and running follow these simple example steps.
   python FCFS_DS_Simulator.py
   ```
 * Screenshots
-  
-_For more examples, please refer to the [PyQt5 Documentation](https://doc.qt.io/qtforpython/)_
+  [![Product Name Screen Shot][product-screenshot-2]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+  [![Product Name Screen Shot][product-screenshot-3]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+_For more examples, please refer to the [Documentation (PDF)](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing) and [PyQt5 Documentation](https://doc.qt.io/qtforpython/)_
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -157,6 +159,6 @@ Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator]
 [license-url]: https://github.com/sauravpanchal/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sauravpanchal
-[product-screenshot-1]: product-images/product-image-1.png
-[product-screenshot-2]: product-images/product-image-2.png
-[product-screenshot-3]: product-images/product-image-3.png
+[product-screenshot-1]: product-images/product-image-1.PNG
+[product-screenshot-2]: product-images/product-image-2.PNG
+[product-screenshot-3]: product-images/product-image-3.PNG
