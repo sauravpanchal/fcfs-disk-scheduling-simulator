@@ -7,7 +7,7 @@ First come first serve disk scheduling simulation can be viewed and studied with
 <!-- USAGE EXAMPLES -->
 ## Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-_For more examples, please refer to the [Documentation](https://doc.qt.io/qtforpython/)_
+_For more examples, please refer to the [PyQt5 Documentation](https://doc.qt.io/qtforpython/)_
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -33,7 +33,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Saurav Panchal 
 - Mail : saurav.panchal.08@gmail.com
-- [Linktree](https://linktr.ee/sauravpanchal)
+- Links : [Linktree](https://linktr.ee/sauravpanchal)
 
 Project Link: [https://github.com/sauravpanchal/](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 
