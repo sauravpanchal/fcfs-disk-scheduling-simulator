@@ -111,6 +111,7 @@ To get a local copy up and running follow these simple example steps.
   ```
 * Screenshots
   [![Product Name Screen Shot][product-screenshot-2]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+  <br>
   [![Product Name Screen Shot][product-screenshot-3]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 _For more examples, please refer to the [Documentation (PDF)](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing) and [PyQt5 Documentation](https://doc.qt.io/qtforpython/)_
 
