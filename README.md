@@ -133,8 +133,8 @@ Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator]
 * [PyQt5 Documentation](https://doc.qt.io/qtforpython/)
 * [Forum](https://stackoverflow.com/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/sauravpanchal/fcfs-disk-scheduling-simulator.svg?style=for-the-badge
+[contributors-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
 [forks-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/network/members
 [issues-shield]: https://img.shields.io/github/issues/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
