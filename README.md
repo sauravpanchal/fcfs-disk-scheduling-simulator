@@ -63,7 +63,7 @@ First come first serve disk scheduling simulation can be viewed and studied with
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+[![Product Name Screen Shot][product-screenshot-1]](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 
 ### Built With
 * [PyQt5](https://doc.qt.io/qtforpython/)
@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple example steps.
    ```
    pip install PyQt5
    ```
-3. _(Optional)_Install PyQt5 tools to get Qt desiner
+3. _(Optional but Recommended)_ Install PyQt5 tools to get Qt desiner
    ```
    pip install pyqt5-tools
    ```
@@ -100,7 +100,12 @@ To get a local copy up and running follow these simple example steps.
   
 <!-- USAGE EXAMPLES -->
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+* After successful installation you can just run the python script `FCFS_DS_Simulator.py` just like any other you would.
+  ```
+  python FCFS_DS_Simulator.py
+  ```
+* Screenshots
+  
 _For more examples, please refer to the [PyQt5 Documentation](https://doc.qt.io/qtforpython/)_
 
 <!-- ROADMAP -->
