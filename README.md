@@ -5,6 +5,29 @@ First come first serve disk scheduling simulation can be viewed and studied with
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [Documentation PDF](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing)
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">fcfs-disk-scheduling-simulator</h3>
+
+  <p align="center">
+    A basic fcfs-disk-scheduling-algorithm simulating application
+    <br />
+    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator">View Demo</a>
+    ·
+    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/issues">Request Feature</a>
+  </p>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
