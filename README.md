@@ -1,6 +1,7 @@
 # fcfs-disk-scheduling-simulator
 First come first serve disk scheduling simulation can be viewed and studied with help of dynamically loading graph.
 <br>
+[![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [Documentation PDF](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing)
@@ -9,7 +10,7 @@ First come first serve disk scheduling simulation can be viewed and studied with
 <br />
 <p align="center">
   <a href="https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">fcfs-disk-scheduling-simulator</h3>
