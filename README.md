@@ -3,7 +3,41 @@ First come first serve disk scheduling simulation can be viewed and studied with
 <br>
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[Documentation PDF](https://drive.google.com/file/d/1eJrLKLZVTRR-fjv9sG0_y_-Va2hvzxyk/view?usp=sharing)
 
+### Built With
+* [PyQt5](https://doc.qt.io/qtforpython/)
+* [Qt Designer]()
+
+<!-- GETTING STARTED -->
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+* Python Basics
+* PyQt5 Module
+* GUI Programming
+
+### Installation
+1. Clone the repo
+   ```
+   git clone https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator.git
+   ```
+2. Install PyQt5 module
+   ```
+   pip install PyQt5
+   ```
+3. _(Optional)_Install PyQt5 tools to get Qt desiner
+   ```
+   pip install pyqt5-tools
+   ```
+   The "designer.exe" will be installed in 
+   ```
+   ...Lib\site-packages\pyqt5_tools
+   ```
+   (You can also create shortcut for the same to access it more easily.)
+  
+  
 <!-- USAGE EXAMPLES -->
 ## Usage
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -35,7 +69,7 @@ Saurav Panchal
 - Mail : saurav.panchal.08@gmail.com
 - Links : [Linktree](https://linktr.ee/sauravpanchal)
 
-Project Link: [https://github.com/sauravpanchal/](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
+Project Link : [https://github.com/sauravpanchal/](https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
