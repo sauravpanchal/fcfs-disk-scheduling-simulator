@@ -1,6 +1,8 @@
 # fcfs-disk-scheduling-simulator
 First come first serve disk scheduling simulation can be viewed and studied with help of dynamically loading graph.
+
 <br>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -133,7 +135,7 @@ Project Link : [https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator]
 * [PyQt5 Documentation](https://doc.qt.io/qtforpython/)
 * [Forum](https://stackoverflow.com/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/sauravpanchal/fcfs-disk-scheduling-simulator.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/sauravpanchal/fcfs-disk-scheduling-simulator.svg?style=for-the-badge&color=brightgreen
 [contributors-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sauravpanchal/fcfs-disk-scheduling-simulator?style=for-the-badge
 [forks-url]: https://github.com/sauravpanchal/fcfs-disk-scheduling-simulator/network/members
